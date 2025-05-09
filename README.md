@@ -20,8 +20,8 @@ This is a simple web application that allows users to search for any movie by na
 
 ## 🌐 Live Demo
 
-[Click here to view the live demo](/)  
-*(replace with your actual GitHub Pages link)*
+[Click here to view the live demo]( https://azimil7498.github.io/Moviefinder/)  
+
 
 
 
